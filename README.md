@@ -53,7 +53,7 @@ git clone https://github.com/yourname/calculator.git
 ## 💡 Demo
 🔗 **Live Demo:** https://visionary-biscotti-04ea62.netlify.app/
   
-🔗 **GitHub Repo:** https://github.com/yourname/calculator
+🔗 **GitHub Repo:**https://github.com/SurinderTech/Calculator.git
 
 
 
